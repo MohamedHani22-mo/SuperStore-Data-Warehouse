@@ -43,11 +43,11 @@ These insights were later visualized in Power BI dashboards for better business 
 ## 📊 Power BI Dashboards
 This project includes **five interactive dashboards**, designed to give a full view of the business performance:
 
-1. **Sales Overview Dashboard** – total sales, orders, and performance trends  
-2. **Customer Segmentation Dashboard** – insights based on customer behavior and group performance  
+1. **Customer Sales Dashboard** – total sales, orders, and performance trends  
+2. **Orders Sales Dashboard** – insights based on customer behavior and group performance  
 3. **Product Analysis Dashboard** – top products, category performance, and subcategory breakdowns  
-4. **Revenue vs. Budget Dashboard** – revenue comparison and profitability analysis  
-5. **Regional Insights Dashboard** – performance by city and region  
+4. **Sales Analysis Dashboard** – revenue comparison and profitability analysis  
+5. **Time Analysis Dashboard** – performance by city and region  
 
 Each dashboard connects directly to the Data Warehouse for real-time, accurate analysis.
 
@@ -72,12 +72,8 @@ Each dashboard connects directly to the Data Warehouse for real-time, accurate a
 - **Docs/** → documentation and screenshots  
 
 ---
+## 👨‍💻 Author
+**Mohamed Hani**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hani-721681243/)  
+🐙 [GitHub](https://github.com/MohamedHani22-mo)
 
-## 🏁 Final Note
-This project highlights my ability to design and implement a **complete BI pipeline** that transforms data into actionable insights.  
-It demonstrates my skills in **Data Engineering**, **Modeling**, and **Analytics** using Microsoft BI technologies.
-
----
-
-### 🔖 Tags
-#PowerBI #SSIS #SSAS #SQLServer #DataEngineering #ETL #DataWarehouse #BusinessIntelligence #DataAnalytics #MicrosoftBI
