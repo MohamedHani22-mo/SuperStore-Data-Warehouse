@@ -61,16 +61,6 @@ Each dashboard connects directly to the Data Warehouse for real-time, accurate a
 - Writing **SQL-based KPIs and metrics**  
 - Building **interactive dashboards** in Power BI  
 - Understanding the **full BI lifecycle** from data to insights  
-
----
-
-## 📂 Project Structure
-- **SSIS_Packages/** → ETL workflows  
-- **SSAS_Models/** → data cubes and analytical models  
-- **SQL_Queries/** → KPI logic and analysis scripts  
-- **PowerBI_Dashboards/** → final interactive dashboards  
-- **Docs/** → documentation and screenshots  
-
 ---
 ## 👨‍💻 Author
 **Mohamed Hani**  
